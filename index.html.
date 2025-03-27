@@ -1,1 +1,123 @@
 # psychono.github.io
+<!DOCTYPE html>
+
+    <!--Main scipt-->
+    <script src="results.js"></script>
+    <!--CSS-->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<html>
+    
+<p style="font-size: 90px"> <center> <b> edtwt rice purity test!</b> </center></p>
+<p> <center> <em>disclaimer a high score (more fewer boxes ticked) does not mean you don’t have a ed. 
+ </center></p></em>
+
+<break>
+
+ <p> <center>   TW: Mentions of self-harm, eating disorders. Just for fun!  </center></p>
+
+ <center><img src="https://i.pinimg.com/736x/87/08/6e/87086ee2537513b36668e83cce9d6329.jpg" alt="alternatetext"
+ width="300" 
+     height="300" > 
+   <img src="https://i.pinimg.com/736x/d7/5d/ec/d75dec3564cf75a264203f13501a1821.jpg" alt="alternatetext"
+ width="300" 
+     height="300" >   
+</center>
+
+<body>
+ 
+
+    </div>
+    <br>
+    <div id="list">
+        <ol>
+              <li><input type="checkbox" id="1"> Lied to parents that you ate when you didn’t</li>
+  <li><input type="checkbox" id="2"> Fasted for at least 18 hours+</li>
+  <li><input type="checkbox" id="3"> Fasted for at least 24 hours</li>
+  <li><input type="checkbox" id="4"> Have a thinspo album/ have thinspo on your device</li>
+  <li><input type="checkbox" id="5"> Taken a bodycheck</li>
+  <li><input type="checkbox" id="6"> Given away food instead of eating it</li>
+  <li><input type="checkbox" id="7"> Had an ed for at least 1 year (-1)</li>
+  <li><input type="checkbox" id="8"> Have a food scale</li>
+  <li><input type="checkbox" id="9"> Have an 'ed pipeline', e.g. bed->ednos->ana</li>
+  <li><input type="checkbox" id="10"> Posted a bodycheck</li>
+  <li><input type="checkbox" id="11"> Abused laxatives</li>
+  <li><input type="checkbox" id="12"> Ed had an effect on your health (eg brainfog, dizziness)</li>
+  <li><input type="checkbox" id="13"> Been under or bmi 16</li>
+  <li><input type="checkbox" id="14"> Lost 5kg (11 lbs) in under a month</li>
+  <li><input type="checkbox" id="15"> Smoke/vape to reduce appetite</li>
+  <li><input type="checkbox" id="16"> Does drugs other than nicotine to reduce appetite</li>
+  <li><input type="checkbox" id="17"> Lost weight you'd already lost</li>
+  <li><input type="checkbox" id="18"> Have a stock of safe foods</li>
+  <li><input type="checkbox" id="19"> Takes vitamins to combat malnutrition</li>
+  <li><input type="checkbox" id="20"> Faked that you ate on a plate (eg put some food bits and sauce)</li>
+  <li><input type="checkbox" id="21"> Weighed food in front of people</li>
+  <li><input type="checkbox" id="22"> Chew and spit</li>
+  <li><input type="checkbox" id="23"> Has tried a abc/ themed diet</li>
+  <li><input type="checkbox" id="24"> Has made a abc/ themed diet</li>
+  <li><input type="checkbox" id="25"> Tracks steps</li>
+  <li><input type="checkbox" id="26"> Worked out in secret</li>
+  <li><input type="checkbox" id="27"> Had an ed related dream</li>
+  <li><input type="checkbox" id="28"> Chugged water before a meal</li>
+  <li><input type="checkbox" id="29"> Hit a plateau</li>
+  <li><input type="checkbox" id="30"> Called a normal sized portion meal a binge</li>
+  <li><input type="checkbox" id="31"> Downloaded and used a calorie tracker app</li>
+  <li><input type="checkbox" id="32"> Downloaded and used a step tracker app</li>
+  <li><input type="checkbox" id="33"> Downloaded and used a weight management app</li>
+  <li><input type="checkbox" id="34"> Thrown away food someone bought for you</li>
+  <li><input type="checkbox" id="35"> Had to eat something in front of someone because they were suspicious of your ed</li>
+  <li><input type="checkbox" id="36"> Wrote meanspo to yourself</li>
+  <li><input type="checkbox" id="37"> Wrote meanspo to others</li>
+  <li><input type="checkbox" id="38"> Take measurements of your waist, thigh, wrists etc</li>
+  <li><input type="checkbox" id="39"> Mentally guessing the cals of each meal when outside</li>
+  <li><input type="checkbox" id="40"> Interacted with fatspo</li>
+  <li><input type="checkbox" id="41"> Posted a fatspo</li>
+  <li><input type="checkbox" id="42"> Been walked in on mid workout</li>
+  <li><input type="checkbox" id="43"> Someone other than you knows about your ed</li>
+  <li><input type="checkbox" id="44"> Purposefully made food inedible to prevent eating it, eg putting dish soap, perfume</li>
+  <li><input type="checkbox" id="45"> Weighing yourself on a daily basis</li>
+  <li><input type="checkbox" id="46"> Posted thinspo</li>
+  <li><input type="checkbox" id="47"> Experienced “worst ana symptom” (shitting urself/ pissing urself)</li>
+  <li><input type="checkbox" id="48"> Feel like ana has definitely shrinked your brain</li>
+  <li><input type="checkbox" id="49"> Purged (forcefully vomited after a binge)</li>
+  <li><input type="checkbox" id="50"> Purged (over exercised after a binge)</li>
+  <li><input type="checkbox" id="51"> Purged (fasting long periods of time after a binge)</li>
+  <li><input type="checkbox" id="52"> Purged/vomited to bile</li>
+  <li><input type="checkbox" id="53"> Been walked in on mid purge (vomit)</li>
+  <li><input type="checkbox" id="54"> Binged and purged multiple times in one day</li>
+  <li><input type="checkbox" id="55"> Purged (vomited) in a restaurant</li>
+  <li><input type="checkbox" id="56"> Purged (vomited) into something other than a toilet</li>
+  <li><input type="checkbox" id="57"> Purged (vomited) somewhere other than your own home</li>
+  <li><input type="checkbox" id="58"> Chew and spat</li>
+  <li><input type="checkbox" id="59"> Used an irl as thinspo</li>
+  <li><input type="checkbox" id="60"> You often skip at least two meals in a row</li>
+  <li><input type="checkbox" id="61"> Doesn’t let yourself do certain things until you’re skinny / at ur gw, and feels that it’ll just feel cringe because you’re “fat”</li>
+  <li><input type="checkbox" id="62"> Run an account dedicated to any spo</li>
+  <li><input type="checkbox" id="63"> Posted a irl as fatspo</li>
+  <li><input type="checkbox" id="64"> Had an ed for at least 5 years</li>
+  <li><input type="checkbox" id="65"> Been hospitalised for ed</li>
+  <li><input type="checkbox" id="66"> Been fatphobic</li>
+  <li><input type="checkbox" id="67"> Openly fatphobic</li>
+  <li><input type="checkbox" id="68"> Terrified of being overweight</li>
+  <li><input type="checkbox" id="69"> Avoid eating when hungry</li>
+  <li><input type="checkbox" id="70"> Get anxious when you can't weigh yourself for 24 hours or longer</li>
+  <li><input type="checkbox" id="71"> Made repeated negative comments and have negative thoughts about how your body looks</li>
+
+
+        </ol>
+        
+          <center><img src="https://i.pinimg.com/736x/00/b1/e9/00b1e9edac3e4ecac925a04b7fb6c4b1.jpg" 
+ width="200" 
+     height="200" > </center>
+
+        <input class="button" id="submit" type="submit" value="Calculate Score" onClick="calculateScore()">
+        <input class="button" id="reset" type="submit" value="Clear Boxes" onClick="clearBoxes()">
+        <h5><a href="https://ricepurity.github.io" target="_blank">
+        <div>
+
+
+
+
+</body>  
+
+</html>
